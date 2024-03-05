@@ -1,5 +1,5 @@
-im learning to make retarded shit;
-not to be taken seriously;
+ccna in the works
+ocasional game dev
 
 <!---
 demonxblaze/demonxblaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
