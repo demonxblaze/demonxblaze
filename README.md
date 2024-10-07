@@ -1,4 +1,18 @@
-ccna in the works
+# David Marques
+
+## About Me
+
+Estudante de LEI no ISEP
+Entusiasta de redes
+
+## Education
+
+- **ISEP**:
+  - Licenciatura de Engenharia Informática
+
+ - **Certs**:
+  - CCNA v1.1
+  - AWS Cloud Practioner (WIP)
 
 
 <!---
