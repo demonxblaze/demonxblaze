@@ -10,7 +10,7 @@ Entusiasta de redes
 - **ISEP**:
   - Licenciatura de Engenharia Informática
 
- - **Certs**:
+- **Certs**:
   - CCNA v1.1
   - AWS Cloud Practioner (WIP)
 
