@@ -3,7 +3,6 @@
 ## About Me
 
 Estudante de LEI no ISEP
-Entusiasta de redes
 
 ## Education
 
