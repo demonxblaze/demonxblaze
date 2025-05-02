@@ -11,7 +11,9 @@ Estudante de LEI no ISEP
 
 - **Certs**:
   - CCNA v1.1
-  - AWS Cloud Practioner (WIP)
+  - Fortinet FCP Network Security (WIP)
+    - FortiGate 7.4 Administrator
+    - FortiManager 7.4 Administrator  
 
 
 <!---
