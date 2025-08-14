@@ -13,7 +13,8 @@ Estudante de LEI no ISEP
   - CCNA v1.1
   - Fortinet FCP Network Security (WIP)
     - FortiGate 7.4 Administrator
-    - FortiManager 7.4 Administrator  
+    - FortiManager 7.4 Administrator
+  - CCNP ENARSI - Starting September
 
 
 <!---
