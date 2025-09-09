@@ -2,7 +2,7 @@
 
 ## About Me
 
-Estudante de LEI no ISEP
+System and Network Administrator
 
 ## Education
 
@@ -11,6 +11,7 @@ Estudante de LEI no ISEP
 
 - **Certs**:
   - CCNA v1.1
+  - CNCS Arquiteto de Redes Seguras - Nível C
   - Fortinet FCP Network Security (WIP)
     - FortiGate 7.4 Administrator
     - FortiManager 7.4 Administrator
